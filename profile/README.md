@@ -1,4 +1,5 @@
-# ./insa.sh : Le Club Info de l’INSA Hauts-de-France ! 🎉
+# 
+![./insa.sh : Le Club Info de l’INSA Hauts-de-France ! 🎉](./bannière_github.png)
 
 Notre mission ? Réunir débutants, curieux et passionnés d’info autour de projets, de conférences et d'événements, tout en apportant de l’aide à ceux qui en ont besoin. 💻✨
 
