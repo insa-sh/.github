@@ -9,6 +9,9 @@ Nous participons à différents événements, dont :
 - **La Guerre des carrés** : notre propre PixelWar à l’INSA HdF ! 🕹️
 
 Cette année, nous avons également développé notre tout nouveau site web. 🌐
+Nous réalisons aussi de nombreux projets, comme notre site web sorti cette année !
+
+![De gauche à droite : projet Guerre des Carrés, HebergOS et Ecclogy !](./projets_image.png)
 
 Pas de niveau requis pour nous rejoindre, on accueille tous les curieux et curieuses avec joie ! 😊
 
