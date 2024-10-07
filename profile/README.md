@@ -1,4 +1,5 @@
-# ./insa.sh : Le Club Info de l’INSA Hauts-de-France ! 🎉
+# 
+![./insa.sh : Le Club Info de l’INSA Hauts-de-France ! 🎉](./bannière_github.png)
 
 Notre mission ? Réunir débutants, curieux et passionnés d’info autour de projets, de conférences et d'événements, tout en apportant de l’aide à ceux qui en ont besoin. 💻✨
 
@@ -7,15 +8,16 @@ Nous participons à différents événements, dont :
 - **La Nuit de l’info** 🌙
 - **La Guerre des carrés** : notre propre PixelWar à l’INSA HdF ! 🕹️
 
-Cette année, nous avons également développé notre tout nouveau site web. 🌐
+Cette année, nous avons également développé notre tout nouveau site web. 🌐  
+Et nous réalisons aussi de nombreux projets, comme **HebergOS** ou encore la **Guerre des Carrés** !
+
+![De gauche à droite : projet Guerre des Carrés, HebergOS et Ecclogy !](./projets_image.png)
 
 Pas de niveau requis pour nous rejoindre, on accueille tous les curieux et curieuses avec joie ! 😊
 
 **Passionné.e par l’informatique ou simplement curieux.se ?** Envie d’en apprendre plus et d’organiser des événements autour de l’informatique ? Passe nous voir un jeudi après-midi ! 🗓️
 
 **PS :** Et si tu as besoin d'aide pour un TP, que tu as une galère avec ton ordinateur ou pour toute autre question, on est aussi là pour toi ! 🛠️💡
-
----
 
 ## Avis aux assos & clubs 📣
 
