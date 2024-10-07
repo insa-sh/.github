@@ -8,8 +8,8 @@ Nous participons à différents événements, dont :
 - **La Nuit de l’info** 🌙
 - **La Guerre des carrés** : notre propre PixelWar à l’INSA HdF ! 🕹️
 
-Cette année, nous avons également développé notre tout nouveau site web. 🌐
-Nous réalisons aussi de nombreux projets, comme notre site web sorti cette année !
+Cette année, nous avons également développé notre tout nouveau site web. 🌐  
+Et nous réalisons aussi de nombreux projets, comme **HebergOS** ou encore la **Guerre des Carrés** !
 
 ![De gauche à droite : projet Guerre des Carrés, HebergOS et Ecclogy !](./projets_image.png)
 
