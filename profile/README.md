@@ -19,8 +19,6 @@ Pas de niveau requis pour nous rejoindre, on accueille tous les curieux et curie
 
 **PS :** Et si tu as besoin d'aide pour un TP, que tu as une galère avec ton ordinateur ou pour toute autre question, on est aussi là pour toi ! 🛠️💡
 
----
-
 ## Avis aux assos & clubs 📣
 
 Si vous êtes une association ou que vous montez un projet professionnel et que vous avez besoin de conseils ou d'aide en informatique, contactez-nous ! 📧
